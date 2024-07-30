@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sumitkrcapg
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java Development
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Sumit Kumar Rai.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Java Development.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me sumit.p.kumar@capgemini.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: :>
